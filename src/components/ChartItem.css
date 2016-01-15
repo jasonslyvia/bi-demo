@@ -1,0 +1,19 @@
+.chart-item {
+  display: inline-block;
+  vertical-align: top;
+  padding: 5px 4px;
+  border: 1px transparent solid;
+  cursor: move;
+  background: #fff;
+}
+
+.chart-item:hover {
+  border: 1px #2db7f5 solid;
+}
+
+.chart-icon {
+  display: block;
+  font-family: 'iconfont';
+  font-size: 2em;
+  font-style: normal;
+}

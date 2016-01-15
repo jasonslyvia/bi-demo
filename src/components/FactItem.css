@@ -1,0 +1,10 @@
+.fact-item {
+  padding: 5px 4px;
+  border: 1px transparent solid;
+  cursor: move;
+  background: #fff;
+}
+
+.fact-item:hover {
+  border: 1px #2db7f5 solid;
+}

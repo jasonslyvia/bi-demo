@@ -1,0 +1,12 @@
+.fact-container {
+  float: left;
+  margin-right: 20px;
+  width: 200px;
+  padding: 10px;
+  border: 1px #ccc solid;
+}
+
+.fact-container .title {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
